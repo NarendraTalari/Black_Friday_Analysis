@@ -32,24 +32,7 @@ The dataset used contains sales data including the following columns:
 
 Make sure to replace the dataset path in the script with your dataset location.
 
-## Setup
-1. Clone the repository:
 
-   ```bash
-   git clone https://https://github.com/tejanadella28/Black_friday_day_analysis.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Black-Friday-Sales-Analysis
-   ```
-
-3. Install the required libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## How to Use
 1. Open the script file (`black_friday_analysis.ipynb`).
